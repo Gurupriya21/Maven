@@ -1,0 +1,23 @@
+2022-03-21 18:47:49 INFO  Logger_Demo:14 - Information
+2022-03-21 18:47:49 WARN  Logger_Demo:15 - Warning
+2022-03-21 18:47:49 ERROR Logger_Demo:16 - Error
+2022-03-21 18:47:49 FATAL Logger_Demo:17 - Fatal
+2022-03-21 18:47:58 INFO  Logger_Demo:14 - Information
+2022-03-21 18:47:58 WARN  Logger_Demo:15 - Warning
+2022-03-21 18:47:58 ERROR Logger_Demo:16 - Error
+2022-03-21 18:47:58 FATAL Logger_Demo:17 - Fatal
+2022-03-21 19:16:37 INFO  Adactin_Runner_Class:37 - Searching Hotel
+2022-03-21 19:16:37 INFO  Adactin_Runner_Class:41 - Selected Hotel
+2022-03-21 19:17:55 INFO  Adactin_Runner_Class:23 - Login completed
+2022-03-21 19:17:57 INFO  Adactin_Runner_Class:37 - Searching Hotel
+2022-03-21 19:17:57 INFO  Adactin_Runner_Class:41 - Selected Hotel
+2022-03-21 19:22:26 INFO  Automation_Runner_Class:23 - Clicked signin btn
+2022-03-21 19:22:30 INFO  Automation_Runner_Class:28 - Sigin completed
+2022-03-21 19:44:23 INFO  Adactin_Runner_Class:23 - Login completed
+2022-03-21 19:44:26 INFO  Adactin_Runner_Class:37 - Searching Hotel Completed
+2022-03-21 19:44:26 INFO  Adactin_Runner_Class:41 - Selected Hotel Completed
+2022-03-21 19:44:28 WARN  Adactin_Runner_Class:52 - Payment completed
+2022-03-21 19:53:40 INFO  Property_Configuration:17 - Information
+2022-03-21 19:53:40 WARN  Property_Configuration:18 - Warning
+2022-03-21 19:53:40 ERROR Property_Configuration:19 - Error
+2022-03-21 19:53:40 FATAL Property_Configuration:20 - Fatal
